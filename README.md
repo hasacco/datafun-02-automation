@@ -116,6 +116,7 @@ uvx pre-commit run --all-files
 # run the module
 uv run python -m datafun.app_case
 uv run python -m datafun.app_hasacco
+uv run python -m datafun.app_hasacco_grades
 
 # do chores
 uv run ruff format .
@@ -204,3 +205,15 @@ Function 2 and Function 3 were changed from static variables to user input varia
 
 ## Example Output 5-21-26
 ![Example Output 5-21-26](image.png)
+
+## Application to new problem 5-21-26: app_hasacco_grades
+
+Loops in original program were modified to be used as a tracker for grades and intervention groups using user input.
+Function #1 uses for loop over numeric range to write files tracking grade reports for each of 6 six weeks.
+Function #2 uses for loop over list to write files tracking scores by student for each exam from a list.
+Function #3 uses transformed exam list and for loop over transformer list to write files tracking students needing interventions for each exam.
+Function #4 uses a while loop with sentinel value and user input to add students and scores to previously written exam file while simultaneously using
+a nested if loop to add students with scores below a certain range to previously written intervention tracking file for exams.
+
+## Example Output 5-21-26 New Application: app_hasacco_grades
+![Example Output 5-21-26 New Application](image-1.png)

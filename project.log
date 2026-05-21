@@ -292,3 +292,613 @@
 2026-05-21 14:15:09 | INFO | P02 | ========================
 2026-05-21 14:15:09 | INFO | P02 | Executed successfully!
 2026-05-21 14:15:09 | INFO | P02 | ========================
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: prime_numbers.txt
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: not_prime_numbers.txt
+2026-05-21 15:04:43 | INFO | P02 | === RUN START ===
+2026-05-21 15:04:43 | INFO | P02 | project=P02
+2026-05-21 15:04:43 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 15:04:43 | INFO | P02 | python=3.14.5
+2026-05-21 15:04:43 | INFO | P02 | os=Windows 11
+2026-05-21 15:04:43 | INFO | P02 | shell=powershell
+2026-05-21 15:04:43 | INFO | P02 | cwd=.
+2026-05-21 15:04:43 | INFO | P02 | github_actions=False
+2026-05-21 15:04:43 | INFO | P02 | ========================
+2026-05-21 15:04:43 | INFO | P02 | START main()
+2026-05-21 15:04:43 | INFO | P02 | ========================
+2026-05-21 15:04:43 | INFO | P02 | ========================
+2026-05-21 15:04:43 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 15:04:43 | INFO | P02 | ========================
+2026-05-21 15:04:43 | INFO | P02 | First quarter: 1
+2026-05-21 15:04:43 | INFO | P02 | Last quarter:  4
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: hasacco_quarter_1.txt
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: hasacco_quarter_2.txt
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: hasacco_quarter_3.txt
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: hasacco_quarter_4.txt
+2026-05-21 15:04:43 | INFO | P02 | ========================
+2026-05-21 15:04:43 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 15:04:43 | INFO | P02 | ========================
+2026-05-21 15:04:43 | INFO | P02 | Pet list: ['alpaca', 'goat', 'lizard']
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: Hannah_alpaca.txt
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: Hannah_goat.txt
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: Hannah_lizard.txt
+2026-05-21 15:04:43 | INFO | P02 | ========================
+2026-05-21 15:04:43 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 15:04:43 | INFO | P02 | ========================
+2026-05-21 15:04:43 | INFO | P02 | Original list: ['alpaca', 'goat', 'lizard']
+2026-05-21 15:04:43 | INFO | P02 | Transformed list: ['favorite_alpaca', 'favorite_goat', 'favorite_lizard']
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: Hannah_favorite_alpaca.txt
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: Hannah_favorite_goat.txt
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: Hannah_favorite_lizard.txt
+2026-05-21 15:04:43 | INFO | P02 | ========================
+2026-05-21 15:04:43 | INFO | P02 | FUNCTION 4: while loop with counter
+2026-05-21 15:04:43 | INFO | P02 | ========================
+2026-05-21 15:04:43 | INFO | P02 | Files to create: 3
+2026-05-21 15:04:43 | INFO | P02 | Seconds between files: 1
+2026-05-21 15:04:43 | INFO | P02 | Wrote file: hasacco_01.txt
+2026-05-21 15:04:43 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 15:04:44 | INFO | P02 | Wrote file: hasacco_02.txt
+2026-05-21 15:04:44 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 15:04:45 | INFO | P02 | Wrote file: hasacco_03.txt
+2026-05-21 15:04:45 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 15:04:46 | INFO | P02 | ========================
+2026-05-21 15:04:46 | INFO | P02 | Executed successfully!
+2026-05-21 15:04:46 | INFO | P02 | ========================
+2026-05-21 15:13:38 | INFO | P02 | Wrote file: prime_numbers.txt
+2026-05-21 15:13:38 | INFO | P02 | Wrote file: not_prime_numbers.txt
+2026-05-21 15:13:38 | INFO | P02 | === RUN START ===
+2026-05-21 15:13:38 | INFO | P02 | project=P02
+2026-05-21 15:13:38 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 15:13:38 | INFO | P02 | python=3.14.5
+2026-05-21 15:13:38 | INFO | P02 | os=Windows 11
+2026-05-21 15:13:38 | INFO | P02 | shell=powershell
+2026-05-21 15:13:38 | INFO | P02 | cwd=.
+2026-05-21 15:13:38 | INFO | P02 | github_actions=False
+2026-05-21 15:13:38 | INFO | P02 | ========================
+2026-05-21 15:13:38 | INFO | P02 | START main()
+2026-05-21 15:13:38 | INFO | P02 | ========================
+2026-05-21 15:13:38 | INFO | P02 | ========================
+2026-05-21 15:13:38 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 15:13:38 | INFO | P02 | ========================
+2026-05-21 15:13:38 | INFO | P02 | First six weeks: 1
+2026-05-21 15:13:38 | INFO | P02 | Last six weeks:  6
+2026-05-21 15:13:38 | INFO | P02 | Wrote file: hasacco_sixweeks_1.txt
+2026-05-21 15:13:38 | INFO | P02 | Wrote file: hasacco_sixweeks_2.txt
+2026-05-21 15:13:38 | INFO | P02 | Wrote file: hasacco_sixweeks_3.txt
+2026-05-21 15:13:38 | INFO | P02 | Wrote file: hasacco_sixweeks_4.txt
+2026-05-21 15:13:38 | INFO | P02 | Wrote file: hasacco_sixweeks_5.txt
+2026-05-21 15:13:38 | INFO | P02 | Wrote file: hasacco_sixweeks_6.txt
+2026-05-21 15:13:38 | INFO | P02 | ========================
+2026-05-21 15:13:38 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 15:13:38 | INFO | P02 | ========================
+2026-05-21 15:47:01 | INFO | P02 | === RUN START ===
+2026-05-21 15:47:01 | INFO | P02 | project=P02
+2026-05-21 15:47:01 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 15:47:01 | INFO | P02 | python=3.14.5
+2026-05-21 15:47:01 | INFO | P02 | os=Windows 11
+2026-05-21 15:47:01 | INFO | P02 | shell=powershell
+2026-05-21 15:47:01 | INFO | P02 | cwd=.
+2026-05-21 15:47:01 | INFO | P02 | github_actions=False
+2026-05-21 15:47:01 | INFO | P02 | ========================
+2026-05-21 15:47:01 | INFO | P02 | START main()
+2026-05-21 15:47:01 | INFO | P02 | ========================
+2026-05-21 15:47:01 | INFO | P02 | ========================
+2026-05-21 15:47:01 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 15:47:01 | INFO | P02 | ========================
+2026-05-21 15:47:01 | INFO | P02 | First six weeks: 1
+2026-05-21 15:47:01 | INFO | P02 | Last six weeks:  6
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_sixweeks_1.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_sixweeks_2.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_sixweeks_3.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_sixweeks_4.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_sixweeks_5.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_sixweeks_6.txt
+2026-05-21 15:47:01 | INFO | P02 | ========================
+2026-05-21 15:47:01 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 15:47:01 | INFO | P02 | ========================
+2026-05-21 15:47:01 | INFO | P02 | Exam list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_Unit 1.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_Unit 2.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_Unit 3.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_1st Semester Exam.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_Unit 4.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_Unit 5.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_Unit 6.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_2nd Semester Exam.txt
+2026-05-21 15:47:01 | INFO | P02 | ========================
+2026-05-21 15:47:01 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 15:47:01 | INFO | P02 | ========================
+2026-05-21 15:47:01 | INFO | P02 | Original list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 15:47:01 | INFO | P02 | Transformed list: ['intervention_Unit 1', 'intervention_Unit 2', 'intervention_Unit 3', 'intervention_1st Semester Exam', 'intervention_Unit 4', 'intervention_Unit 5', 'intervention_Unit 6', 'intervention_2nd Semester Exam']
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_intervention_Unit 1.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_intervention_Unit 2.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_intervention_Unit 3.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_intervention_1st Semester Exam.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_intervention_Unit 4.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_intervention_Unit 5.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_intervention_Unit 6.txt
+2026-05-21 15:47:01 | INFO | P02 | Wrote file: hasacco_intervention_2nd Semester Exam.txt
+2026-05-21 15:47:01 | INFO | P02 | ========================
+2026-05-21 15:47:01 | INFO | P02 | FUNCTION 4: while loop with sentinel value
+2026-05-21 15:47:01 | INFO | P02 | ========================
+2026-05-21 15:47:01 | INFO | P02 | Sentinel value to stop the loop: -1
+2026-05-21 15:47:01 | INFO | P02 | Seconds between inputs: 1
+2026-05-21 15:47:21 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 15:47:25 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 15:47:29 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 15:47:35 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 15:47:41 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 15:52:04 | INFO | P02 | === RUN START ===
+2026-05-21 15:52:04 | INFO | P02 | project=P02
+2026-05-21 15:52:04 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 15:52:04 | INFO | P02 | python=3.14.5
+2026-05-21 15:52:04 | INFO | P02 | os=Windows 11
+2026-05-21 15:52:04 | INFO | P02 | shell=powershell
+2026-05-21 15:52:04 | INFO | P02 | cwd=.
+2026-05-21 15:52:04 | INFO | P02 | github_actions=False
+2026-05-21 15:52:04 | INFO | P02 | ========================
+2026-05-21 15:52:04 | INFO | P02 | START main()
+2026-05-21 15:52:04 | INFO | P02 | ========================
+2026-05-21 15:52:04 | INFO | P02 | ========================
+2026-05-21 15:52:04 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 15:52:04 | INFO | P02 | ========================
+2026-05-21 15:52:04 | INFO | P02 | First six weeks: 1
+2026-05-21 15:52:04 | INFO | P02 | Last six weeks:  6
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_sixweeks_1.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_sixweeks_2.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_sixweeks_3.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_sixweeks_4.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_sixweeks_5.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_sixweeks_6.txt
+2026-05-21 15:52:04 | INFO | P02 | ========================
+2026-05-21 15:52:04 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 15:52:04 | INFO | P02 | ========================
+2026-05-21 15:52:04 | INFO | P02 | Exam list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_Unit 1.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_Unit 2.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_Unit 3.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_1st Semester Exam.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_Unit 4.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_Unit 5.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_Unit 6.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_2nd Semester Exam.txt
+2026-05-21 15:52:04 | INFO | P02 | ========================
+2026-05-21 15:52:04 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 15:52:04 | INFO | P02 | ========================
+2026-05-21 15:52:04 | INFO | P02 | Original list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 15:52:04 | INFO | P02 | Transformed list: ['intervention_Unit 1', 'intervention_Unit 2', 'intervention_Unit 3', 'intervention_1st Semester Exam', 'intervention_Unit 4', 'intervention_Unit 5', 'intervention_Unit 6', 'intervention_2nd Semester Exam']
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_intervention_Unit 1.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_intervention_Unit 2.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_intervention_Unit 3.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_intervention_1st Semester Exam.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_intervention_Unit 4.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_intervention_Unit 5.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_intervention_Unit 6.txt
+2026-05-21 15:52:04 | INFO | P02 | Wrote file: hasacco_intervention_2nd Semester Exam.txt
+2026-05-21 15:52:04 | INFO | P02 | ========================
+2026-05-21 15:52:04 | INFO | P02 | FUNCTION 4: while loop with sentinel value
+2026-05-21 15:52:04 | INFO | P02 | ========================
+2026-05-21 15:52:04 | INFO | P02 | Sentinel value to stop the loop: -1
+2026-05-21 15:52:04 | INFO | P02 | Seconds between inputs: 1
+2026-05-21 15:52:13 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 15:52:18 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 15:52:22 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:02:54 | INFO | P02 | === RUN START ===
+2026-05-21 16:02:54 | INFO | P02 | project=P02
+2026-05-21 16:02:54 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 16:02:54 | INFO | P02 | python=3.14.5
+2026-05-21 16:02:54 | INFO | P02 | os=Windows 11
+2026-05-21 16:02:54 | INFO | P02 | shell=powershell
+2026-05-21 16:02:54 | INFO | P02 | cwd=.
+2026-05-21 16:02:54 | INFO | P02 | github_actions=False
+2026-05-21 16:02:54 | INFO | P02 | ========================
+2026-05-21 16:02:54 | INFO | P02 | START main()
+2026-05-21 16:02:54 | INFO | P02 | ========================
+2026-05-21 16:02:54 | INFO | P02 | ========================
+2026-05-21 16:02:54 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 16:02:54 | INFO | P02 | ========================
+2026-05-21 16:02:54 | INFO | P02 | First six weeks: 1
+2026-05-21 16:02:54 | INFO | P02 | Last six weeks:  6
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_sixweeks_1.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_sixweeks_2.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_sixweeks_3.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_sixweeks_4.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_sixweeks_5.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_sixweeks_6.txt
+2026-05-21 16:02:54 | INFO | P02 | ========================
+2026-05-21 16:02:54 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:02:54 | INFO | P02 | ========================
+2026-05-21 16:02:54 | INFO | P02 | Exam list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_Unit 1.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_Unit 2.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_Unit 3.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_1st Semester Exam.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_Unit 4.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_Unit 5.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_Unit 6.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_2nd Semester Exam.txt
+2026-05-21 16:02:54 | INFO | P02 | ========================
+2026-05-21 16:02:54 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:02:54 | INFO | P02 | ========================
+2026-05-21 16:02:54 | INFO | P02 | Original list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:02:54 | INFO | P02 | Transformed list: ['intervention_Unit 1', 'intervention_Unit 2', 'intervention_Unit 3', 'intervention_1st Semester Exam', 'intervention_Unit 4', 'intervention_Unit 5', 'intervention_Unit 6', 'intervention_2nd Semester Exam']
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_intervention_Unit 1.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_intervention_Unit 2.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_intervention_Unit 3.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_intervention_1st Semester Exam.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_intervention_Unit 4.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_intervention_Unit 5.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_intervention_Unit 6.txt
+2026-05-21 16:02:54 | INFO | P02 | Wrote file: hasacco_intervention_2nd Semester Exam.txt
+2026-05-21 16:02:54 | INFO | P02 | ========================
+2026-05-21 16:02:54 | INFO | P02 | FUNCTION 4: while loop with sentinel value
+2026-05-21 16:02:54 | INFO | P02 | ========================
+2026-05-21 16:02:54 | INFO | P02 | Sentinel value to stop the loop: -1
+2026-05-21 16:02:54 | INFO | P02 | Seconds between inputs: 1
+2026-05-21 16:03:02 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:04:44 | INFO | P02 | === RUN START ===
+2026-05-21 16:04:44 | INFO | P02 | project=P02
+2026-05-21 16:04:44 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 16:04:44 | INFO | P02 | python=3.14.5
+2026-05-21 16:04:44 | INFO | P02 | os=Windows 11
+2026-05-21 16:04:44 | INFO | P02 | shell=powershell
+2026-05-21 16:04:44 | INFO | P02 | cwd=.
+2026-05-21 16:04:44 | INFO | P02 | github_actions=False
+2026-05-21 16:04:44 | INFO | P02 | ========================
+2026-05-21 16:04:44 | INFO | P02 | START main()
+2026-05-21 16:04:44 | INFO | P02 | ========================
+2026-05-21 16:04:44 | INFO | P02 | ========================
+2026-05-21 16:04:44 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 16:04:44 | INFO | P02 | ========================
+2026-05-21 16:04:44 | INFO | P02 | First six weeks: 1
+2026-05-21 16:04:44 | INFO | P02 | Last six weeks:  6
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_sixweeks_1.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_sixweeks_2.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_sixweeks_3.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_sixweeks_4.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_sixweeks_5.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_sixweeks_6.txt
+2026-05-21 16:04:44 | INFO | P02 | ========================
+2026-05-21 16:04:44 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:04:44 | INFO | P02 | ========================
+2026-05-21 16:04:44 | INFO | P02 | Exam list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_Unit 1.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_Unit 2.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_Unit 3.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_1st Semester Exam.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_Unit 4.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_Unit 5.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_Unit 6.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_2nd Semester Exam.txt
+2026-05-21 16:04:44 | INFO | P02 | ========================
+2026-05-21 16:04:44 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:04:44 | INFO | P02 | ========================
+2026-05-21 16:04:44 | INFO | P02 | Original list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:04:44 | INFO | P02 | Transformed list: ['intervention_Unit 1', 'intervention_Unit 2', 'intervention_Unit 3', 'intervention_1st Semester Exam', 'intervention_Unit 4', 'intervention_Unit 5', 'intervention_Unit 6', 'intervention_2nd Semester Exam']
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_intervention_Unit 1.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_intervention_Unit 2.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_intervention_Unit 3.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_intervention_1st Semester Exam.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_intervention_Unit 4.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_intervention_Unit 5.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_intervention_Unit 6.txt
+2026-05-21 16:04:44 | INFO | P02 | Wrote file: hasacco_intervention_2nd Semester Exam.txt
+2026-05-21 16:04:44 | INFO | P02 | ========================
+2026-05-21 16:04:44 | INFO | P02 | FUNCTION 4: while loop with sentinel value
+2026-05-21 16:04:44 | INFO | P02 | ========================
+2026-05-21 16:04:44 | INFO | P02 | Sentinel value to stop the loop: -1
+2026-05-21 16:04:44 | INFO | P02 | Seconds between inputs: 1
+2026-05-21 16:09:20 | INFO | P02 | === RUN START ===
+2026-05-21 16:09:20 | INFO | P02 | project=P02
+2026-05-21 16:09:20 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 16:09:20 | INFO | P02 | python=3.14.5
+2026-05-21 16:09:20 | INFO | P02 | os=Windows 11
+2026-05-21 16:09:20 | INFO | P02 | shell=powershell
+2026-05-21 16:09:20 | INFO | P02 | cwd=.
+2026-05-21 16:09:20 | INFO | P02 | github_actions=False
+2026-05-21 16:09:20 | INFO | P02 | ========================
+2026-05-21 16:09:20 | INFO | P02 | START main()
+2026-05-21 16:09:20 | INFO | P02 | ========================
+2026-05-21 16:09:20 | INFO | P02 | ========================
+2026-05-21 16:09:20 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 16:09:20 | INFO | P02 | ========================
+2026-05-21 16:09:20 | INFO | P02 | First six weeks: 1
+2026-05-21 16:09:20 | INFO | P02 | Last six weeks:  6
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_sixweeks_1.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_sixweeks_2.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_sixweeks_3.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_sixweeks_4.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_sixweeks_5.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_sixweeks_6.txt
+2026-05-21 16:09:20 | INFO | P02 | ========================
+2026-05-21 16:09:20 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:09:20 | INFO | P02 | ========================
+2026-05-21 16:09:20 | INFO | P02 | Exam list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_Unit 1.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_Unit 2.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_Unit 3.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_1st Semester Exam.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_Unit 4.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_Unit 5.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_Unit 6.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_2nd Semester Exam.txt
+2026-05-21 16:09:20 | INFO | P02 | ========================
+2026-05-21 16:09:20 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:09:20 | INFO | P02 | ========================
+2026-05-21 16:09:20 | INFO | P02 | Original list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:09:20 | INFO | P02 | Transformed list: ['intervention_Unit 1', 'intervention_Unit 2', 'intervention_Unit 3', 'intervention_1st Semester Exam', 'intervention_Unit 4', 'intervention_Unit 5', 'intervention_Unit 6', 'intervention_2nd Semester Exam']
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_intervention_Unit 1.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_intervention_Unit 2.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_intervention_Unit 3.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_intervention_1st Semester Exam.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_intervention_Unit 4.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_intervention_Unit 5.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_intervention_Unit 6.txt
+2026-05-21 16:09:20 | INFO | P02 | Wrote file: hasacco_intervention_2nd Semester Exam.txt
+2026-05-21 16:09:20 | INFO | P02 | ========================
+2026-05-21 16:09:20 | INFO | P02 | FUNCTION 4: while loop with sentinel value
+2026-05-21 16:09:20 | INFO | P02 | ========================
+2026-05-21 16:09:20 | INFO | P02 | Sentinel value to stop the loop: -1
+2026-05-21 16:09:20 | INFO | P02 | Seconds between inputs: 1
+2026-05-21 16:11:28 | INFO | P02 | === RUN START ===
+2026-05-21 16:11:28 | INFO | P02 | project=P02
+2026-05-21 16:11:28 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 16:11:28 | INFO | P02 | python=3.14.5
+2026-05-21 16:11:28 | INFO | P02 | os=Windows 11
+2026-05-21 16:11:28 | INFO | P02 | shell=powershell
+2026-05-21 16:11:28 | INFO | P02 | cwd=.
+2026-05-21 16:11:28 | INFO | P02 | github_actions=False
+2026-05-21 16:11:28 | INFO | P02 | ========================
+2026-05-21 16:11:28 | INFO | P02 | START main()
+2026-05-21 16:11:28 | INFO | P02 | ========================
+2026-05-21 16:11:28 | INFO | P02 | ========================
+2026-05-21 16:11:28 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 16:11:28 | INFO | P02 | ========================
+2026-05-21 16:11:28 | INFO | P02 | First six weeks: 1
+2026-05-21 16:11:28 | INFO | P02 | Last six weeks:  6
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_sixweeks_1.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_sixweeks_2.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_sixweeks_3.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_sixweeks_4.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_sixweeks_5.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_sixweeks_6.txt
+2026-05-21 16:11:28 | INFO | P02 | ========================
+2026-05-21 16:11:28 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:11:28 | INFO | P02 | ========================
+2026-05-21 16:11:28 | INFO | P02 | Exam list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_Unit 1.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_Unit 2.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_Unit 3.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_1st Semester Exam.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_Unit 4.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_Unit 5.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_Unit 6.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_2nd Semester Exam.txt
+2026-05-21 16:11:28 | INFO | P02 | ========================
+2026-05-21 16:11:28 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:11:28 | INFO | P02 | ========================
+2026-05-21 16:11:28 | INFO | P02 | Original list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:11:28 | INFO | P02 | Transformed list: ['intervention_Unit 1', 'intervention_Unit 2', 'intervention_Unit 3', 'intervention_1st Semester Exam', 'intervention_Unit 4', 'intervention_Unit 5', 'intervention_Unit 6', 'intervention_2nd Semester Exam']
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_intervention_Unit 1.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_intervention_Unit 2.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_intervention_Unit 3.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_intervention_1st Semester Exam.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_intervention_Unit 4.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_intervention_Unit 5.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_intervention_Unit 6.txt
+2026-05-21 16:11:28 | INFO | P02 | Wrote file: hasacco_intervention_2nd Semester Exam.txt
+2026-05-21 16:11:28 | INFO | P02 | ========================
+2026-05-21 16:11:28 | INFO | P02 | FUNCTION 4: while loop with sentinel value
+2026-05-21 16:11:28 | INFO | P02 | ========================
+2026-05-21 16:11:28 | INFO | P02 | Sentinel value to stop the loop: -1
+2026-05-21 16:11:28 | INFO | P02 | Seconds between inputs: 1
+2026-05-21 16:12:25 | INFO | P02 | === RUN START ===
+2026-05-21 16:12:25 | INFO | P02 | project=P02
+2026-05-21 16:12:25 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 16:12:25 | INFO | P02 | python=3.14.5
+2026-05-21 16:12:25 | INFO | P02 | os=Windows 11
+2026-05-21 16:12:25 | INFO | P02 | shell=powershell
+2026-05-21 16:12:25 | INFO | P02 | cwd=.
+2026-05-21 16:12:25 | INFO | P02 | github_actions=False
+2026-05-21 16:12:25 | INFO | P02 | ========================
+2026-05-21 16:12:25 | INFO | P02 | START main()
+2026-05-21 16:12:25 | INFO | P02 | ========================
+2026-05-21 16:12:25 | INFO | P02 | ========================
+2026-05-21 16:12:25 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 16:12:25 | INFO | P02 | ========================
+2026-05-21 16:12:25 | INFO | P02 | First six weeks: 1
+2026-05-21 16:12:25 | INFO | P02 | Last six weeks:  6
+2026-05-21 16:12:51 | INFO | P02 | === RUN START ===
+2026-05-21 16:12:51 | INFO | P02 | project=P02
+2026-05-21 16:12:51 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 16:12:51 | INFO | P02 | python=3.14.5
+2026-05-21 16:12:51 | INFO | P02 | os=Windows 11
+2026-05-21 16:12:51 | INFO | P02 | shell=powershell
+2026-05-21 16:12:51 | INFO | P02 | cwd=.
+2026-05-21 16:12:51 | INFO | P02 | github_actions=False
+2026-05-21 16:12:51 | INFO | P02 | ========================
+2026-05-21 16:12:51 | INFO | P02 | START main()
+2026-05-21 16:12:51 | INFO | P02 | ========================
+2026-05-21 16:12:51 | INFO | P02 | ========================
+2026-05-21 16:12:51 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 16:12:51 | INFO | P02 | ========================
+2026-05-21 16:12:51 | INFO | P02 | First six weeks: 1
+2026-05-21 16:12:51 | INFO | P02 | Last six weeks:  6
+2026-05-21 16:13:13 | INFO | P02 | === RUN START ===
+2026-05-21 16:13:13 | INFO | P02 | project=P02
+2026-05-21 16:13:13 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 16:13:13 | INFO | P02 | python=3.14.5
+2026-05-21 16:13:13 | INFO | P02 | os=Windows 11
+2026-05-21 16:13:13 | INFO | P02 | shell=powershell
+2026-05-21 16:13:13 | INFO | P02 | cwd=.
+2026-05-21 16:13:13 | INFO | P02 | github_actions=False
+2026-05-21 16:13:13 | INFO | P02 | ========================
+2026-05-21 16:13:13 | INFO | P02 | START main()
+2026-05-21 16:13:13 | INFO | P02 | ========================
+2026-05-21 16:13:13 | INFO | P02 | ========================
+2026-05-21 16:13:13 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 16:13:13 | INFO | P02 | ========================
+2026-05-21 16:13:13 | INFO | P02 | First six weeks: 1
+2026-05-21 16:13:13 | INFO | P02 | Last six weeks:  6
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_sixweeks_1.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_sixweeks_2.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_sixweeks_3.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_sixweeks_4.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_sixweeks_5.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_sixweeks_6.txt
+2026-05-21 16:13:13 | INFO | P02 | ========================
+2026-05-21 16:13:13 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:13:13 | INFO | P02 | ========================
+2026-05-21 16:13:13 | INFO | P02 | Exam list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_Unit 1.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_Unit 2.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_Unit 3.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_1st Semester Exam.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_Unit 4.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_Unit 5.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_Unit 6.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_2nd Semester Exam.txt
+2026-05-21 16:13:13 | INFO | P02 | ========================
+2026-05-21 16:13:13 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:13:13 | INFO | P02 | ========================
+2026-05-21 16:13:13 | INFO | P02 | Original list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:13:13 | INFO | P02 | Transformed list: ['intervention_Unit 1', 'intervention_Unit 2', 'intervention_Unit 3', 'intervention_1st Semester Exam', 'intervention_Unit 4', 'intervention_Unit 5', 'intervention_Unit 6', 'intervention_2nd Semester Exam']
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_intervention_Unit 1.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_intervention_Unit 2.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_intervention_Unit 3.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_intervention_1st Semester Exam.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_intervention_Unit 4.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_intervention_Unit 5.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_intervention_Unit 6.txt
+2026-05-21 16:13:13 | INFO | P02 | Wrote file: hasacco_intervention_2nd Semester Exam.txt
+2026-05-21 16:13:13 | INFO | P02 | ========================
+2026-05-21 16:13:13 | INFO | P02 | FUNCTION 4: while loop with sentinel value
+2026-05-21 16:13:13 | INFO | P02 | ========================
+2026-05-21 16:13:13 | INFO | P02 | Sentinel value to stop the loop: -1
+2026-05-21 16:13:13 | INFO | P02 | Seconds between inputs: 1
+2026-05-21 16:13:20 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:13:25 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:13:28 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:13:32 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:13:39 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:14:22 | INFO | P02 | === RUN START ===
+2026-05-21 16:14:22 | INFO | P02 | project=P02
+2026-05-21 16:14:22 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 16:14:22 | INFO | P02 | python=3.14.5
+2026-05-21 16:14:22 | INFO | P02 | os=Windows 11
+2026-05-21 16:14:22 | INFO | P02 | shell=powershell
+2026-05-21 16:14:22 | INFO | P02 | cwd=.
+2026-05-21 16:14:22 | INFO | P02 | github_actions=False
+2026-05-21 16:14:22 | INFO | P02 | ========================
+2026-05-21 16:14:22 | INFO | P02 | START main()
+2026-05-21 16:14:22 | INFO | P02 | ========================
+2026-05-21 16:14:22 | INFO | P02 | ========================
+2026-05-21 16:14:22 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 16:14:22 | INFO | P02 | ========================
+2026-05-21 16:14:22 | INFO | P02 | First six weeks: 1
+2026-05-21 16:14:22 | INFO | P02 | Last six weeks:  6
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_sixweeks_1.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_sixweeks_2.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_sixweeks_3.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_sixweeks_4.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_sixweeks_5.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_sixweeks_6.txt
+2026-05-21 16:14:22 | INFO | P02 | ========================
+2026-05-21 16:14:22 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:14:22 | INFO | P02 | ========================
+2026-05-21 16:14:22 | INFO | P02 | Exam list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_Unit 1.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_Unit 2.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_Unit 3.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_1st Semester Exam.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_Unit 4.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_Unit 5.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_Unit 6.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_2nd Semester Exam.txt
+2026-05-21 16:14:22 | INFO | P02 | ========================
+2026-05-21 16:14:22 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:14:22 | INFO | P02 | ========================
+2026-05-21 16:14:22 | INFO | P02 | Original list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:14:22 | INFO | P02 | Transformed list: ['intervention_Unit 1', 'intervention_Unit 2', 'intervention_Unit 3', 'intervention_1st Semester Exam', 'intervention_Unit 4', 'intervention_Unit 5', 'intervention_Unit 6', 'intervention_2nd Semester Exam']
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_intervention_Unit 1.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_intervention_Unit 2.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_intervention_Unit 3.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_intervention_1st Semester Exam.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_intervention_Unit 4.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_intervention_Unit 5.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_intervention_Unit 6.txt
+2026-05-21 16:14:22 | INFO | P02 | Wrote file: hasacco_intervention_2nd Semester Exam.txt
+2026-05-21 16:14:22 | INFO | P02 | ========================
+2026-05-21 16:14:22 | INFO | P02 | FUNCTION 4: while loop with sentinel value
+2026-05-21 16:14:22 | INFO | P02 | ========================
+2026-05-21 16:14:22 | INFO | P02 | Sentinel value to stop the loop: -1
+2026-05-21 16:14:22 | INFO | P02 | Seconds between inputs: 1
+2026-05-21 16:14:32 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:14:35 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:14:38 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:14:42 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:14:47 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:14:56 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:14:58 | INFO | P02 | ========================
+2026-05-21 16:14:58 | INFO | P02 | Executed successfully!
+2026-05-21 16:14:58 | INFO | P02 | ========================
+2026-05-21 16:16:38 | INFO | P02 | === RUN START ===
+2026-05-21 16:16:38 | INFO | P02 | project=P02
+2026-05-21 16:16:38 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-21 16:16:38 | INFO | P02 | python=3.14.5
+2026-05-21 16:16:38 | INFO | P02 | os=Windows 11
+2026-05-21 16:16:38 | INFO | P02 | shell=powershell
+2026-05-21 16:16:38 | INFO | P02 | cwd=.
+2026-05-21 16:16:38 | INFO | P02 | github_actions=False
+2026-05-21 16:16:38 | INFO | P02 | ========================
+2026-05-21 16:16:38 | INFO | P02 | START main()
+2026-05-21 16:16:38 | INFO | P02 | ========================
+2026-05-21 16:16:38 | INFO | P02 | ========================
+2026-05-21 16:16:38 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-21 16:16:38 | INFO | P02 | ========================
+2026-05-21 16:16:38 | INFO | P02 | First six weeks: 1
+2026-05-21 16:16:38 | INFO | P02 | Last six weeks:  6
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_sixweeks_1.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_sixweeks_2.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_sixweeks_3.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_sixweeks_4.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_sixweeks_5.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_sixweeks_6.txt
+2026-05-21 16:16:38 | INFO | P02 | ========================
+2026-05-21 16:16:38 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:16:38 | INFO | P02 | ========================
+2026-05-21 16:16:38 | INFO | P02 | Exam list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_Unit 1.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_Unit 2.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_Unit 3.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_1st Semester Exam.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_Unit 4.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_Unit 5.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_Unit 6.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_2nd Semester Exam.txt
+2026-05-21 16:16:38 | INFO | P02 | ========================
+2026-05-21 16:16:38 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:16:38 | INFO | P02 | ========================
+2026-05-21 16:16:38 | INFO | P02 | Original list: ['Unit 1', 'Unit 2', 'Unit 3', '1st Semester Exam', 'Unit 4', 'Unit 5', 'Unit 6', '2nd Semester Exam']
+2026-05-21 16:16:38 | INFO | P02 | Transformed list: ['intervention_Unit 1', 'intervention_Unit 2', 'intervention_Unit 3', 'intervention_1st Semester Exam', 'intervention_Unit 4', 'intervention_Unit 5', 'intervention_Unit 6', 'intervention_2nd Semester Exam']
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_intervention_Unit 1.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_intervention_Unit 2.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_intervention_Unit 3.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_intervention_1st Semester Exam.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_intervention_Unit 4.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_intervention_Unit 5.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_intervention_Unit 6.txt
+2026-05-21 16:16:38 | INFO | P02 | Wrote file: hasacco_intervention_2nd Semester Exam.txt
+2026-05-21 16:16:38 | INFO | P02 | ========================
+2026-05-21 16:16:38 | INFO | P02 | FUNCTION 4: while loop with sentinel value
+2026-05-21 16:16:38 | INFO | P02 | ========================
+2026-05-21 16:16:38 | INFO | P02 | Sentinel value to stop the loop: -1
+2026-05-21 16:16:38 | INFO | P02 | Seconds between inputs: 1
+2026-05-21 16:16:46 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:16:50 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:16:53 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:16:58 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:17:02 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:17:08 | INFO | P02 | Waiting 1 second(s)...
+2026-05-21 16:17:10 | INFO | P02 | ========================
+2026-05-21 16:17:10 | INFO | P02 | Executed successfully!
+2026-05-21 16:17:10 | INFO | P02 | ========================
